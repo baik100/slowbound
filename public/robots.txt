@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://c6b81627.slowbound.pages.dev/sitemap.xml
