@@ -21,7 +21,7 @@ const PORTFOLIO_ITEMS: PortfolioItem[] = [
   { id: '3', title: 'Atelier Loom', category: '클래스 스튜디오', description: '프리미엄 실전 클래스 스튜디오를 위한 다크 톤의 감각적인 브랜드 홈페이지입니다.', image: '/portfolio/03.png', link: 'https://slowbound00003.imweb.me/' },
   // TODO: 워크플로우 링크 확인 필요 — 말씀해주신 표시 URL(00002)과 실제 링크(00001)가 서로 달라서 우선 00002로 넣어뒀어요.
   { id: '4', title: 'Workflow', category: 'SaaS·서비스 소개', description: '업무관리 서비스 소개 페이지로, 깔끔한 레이아웃과 명확한 정보 전달을 목표로 제작했습니다.', image: '/portfolio/04.png', link: 'https://slowbound00002.imweb.me/' },
-  { id: '5', title: '준비중', category: '인테리어 스튜디오', description: '상세 내용은 준비 중입니다. 곧 업데이트될 예정이에요.' },
+  { id: '5', title: 'GRANFORET', category: '부동산·분양', description: '아파트 분양 홈페이지로, 단지 전경과 입지 정보를 신뢰감 있게 전달하는 데 집중했습니다.', image: '/portfolio/05.png', link: 'https://slowbound00004.imweb.me/' },
   { id: '6', title: '준비중', category: '개인 포트폴리오', description: '상세 내용은 준비 중입니다. 곧 업데이트될 예정이에요.' },
   { id: '7', title: '준비중', category: '카페 브랜드', description: '상세 내용은 준비 중입니다. 곧 업데이트될 예정이에요.' },
   { id: '8', title: '준비중', category: '교육 서비스', description: '상세 내용은 준비 중입니다. 곧 업데이트될 예정이에요.' },
